@@ -1,0 +1,244 @@
+Essential Scrum
+
+Resonating Message
+The Scrum framework is a never-ending improvement process aimed at continuous, iterative delivery of potentially shippable product increments by a dedicated scrum team, who regularly inspect and adapt the means and ends to maximise value delivered to the customer.
+
+
+Chapter/Section in one sentence
+Scrum is an agile approach for developing products and services, performed in short time boxed iterations, by a self-organised team, which focuses on customer value delivery — excellent for complex and complicated domains.
+Scrum consists of a Product Owner, Scrum Master, and Development team practising ceremonies that make up a sprint, applying agile values and principles to deliver a potentially shippable product increment of high value to the customer.
+Scrum builds off the agile values and principles, into areas of application — Variability and uncertainty, prediction and adaptation, validated learning, work in process, progress, and performance.
+Sprints are short, time boxed, consistent in duration, goal driven, events that produce a potentially shippable product increment.
+Scrum uses Product Backlog Items (PBI) which are expressed in terms of customer value, prioritised into a sprint, and support conversation and emergent design within the development team.
+Requirements (via PBIs) are kept in a Product Backlog — with a single backlog per product, that is regularly groomed, prioritised — having enough PBIs to support a consistent flow of development
+PBIs should be sized relatively — with the historical actuals informing the future capacity estimates via velocity.
+A business needs to actively identify the technical debt it has, where it has come from, and what it needs to do to manage it — to prevent adverse impacts to business operation
+Product Owners are a single empowered individual who act as the voice of the customer, identifying needs and priorities, and working with the dev team to execute against those needs.
+Scrum Masters are the champions of agility, coaching the development team on scrum, and creating an environment that gives focus, protection, and support the delivery of business value each sprint.
+The development team turns product backlog items into potentially shippable product increments through a balance of skills, attitude, culture, emotional and social intelligence, all at a sustainable pace.
+Scrum Teams structures can be functional, component, or blended — and can be coordinated in a number of ways as teams scale. In each case, there is no standard rule — but all the scrum values and practices still apply, and focusing on maximising the delivery of value via a potentially shippable increment should be at the core of your decisions.
+Functional and Project Managers can exist within Scrum, but it is important that these do not take away the responsibilities of the Scrum roles — and instead compliment and support those Scrum roles.
+Planning needs to be economically sensible, adaptable, and never conformed to — but regularly inspected and adapted based on validated learning.
+Scrum has multi-level interrelated planning, embracing the cone of certainty to only plan as much as economically sensible to support the business objectives — ensuring planning detail is only created at the last responsible moment to do so, and always with the ability to regularly inspect and adapt that planning.
+Portfolio planning focuses on a stream of new product and in process data, flowing through a suitable economic filter to inform prioritisation, scheduling, and the efficient outflow of product delivery.
+Envisioning (product planning) aims to identify, and rapidly acquire knowledge and test the validity of a new potential product through strategic and economic filters — to better align product planning with the value creation work that will follow.
+Release planning turns high level PBIs into suitably estimated stories, allocated, and planned to indicate either what will be achieved (fixed date release), or when it will be achieved (fixed scope release) — and feeding the scrum teams prioritised work to start sprinting.
+Sprint planning is where the development team takes PBIs, gains confidence, and ultimately negotiates a realistic commitment on what can be achieved towards the business priorities and goal provided by the Product Owner.
+Sprint execution is performed opportunistically, leveraging the skills of the the team, feedback, and short iterative cycles to evolve to the circumstances of the sprint to achieve a good flow of value delivery.
+Sprint review provides the feedback loop to review what was accomplished during the sprint (done), and inspect and adapt the product backlog and release plan on what to do next.
+Sprint retrospective provides a forum for the scrum team to reflect on how well it is using scrum, and customise it to suit their specific needs and concerns identified.
+
+
+
+
+Resonating Ideas
+
+
+“Although the Scrum framework is simple, it would be a mistake to assume that Scrum is easy and painless to apply. Scrum doesn’t prescriptively answer your process questions; instead, it empowers teams to ask and answer their own great questions.”
+“Scrum is not a standardised process where you methodically follow a series of sequential steps that are guaranteed to product, on time and on budget, a high quality product that delights customers. Instead, Scrum is a framework for organising and managing work”
+“Scrum and traditional, plan-driven, sequential development are appropriate to use on different classes of problems”
+“During each sprint we perform all of the activities necessary to create a working product increment (some of the product, not all of it)”
+Scrum reduces uncertainly by regularly reviewing both the End uncertainty (what we build) at sprint review by reviewing potentially shippable product increments — and the Means uncertainty (how we build) at sprint retrospective by inspecting our processes and technologies used to develop the product.
+
+
+
+Variability and uncertainty:
+Embrace helpful variability
+Employ iterative and increment development
+Leverage variability through inspection, adaptation, and transparency
+Reduce all forms of uncertainty simultaneously
+
+
+
+
+
+Prediction and adaptation
+Keep options open
+Accept that you can't get it right up front
+Favour an adaptive, exploratory approach
+Embrace change in an economically sensible way
+Balance predictive up-front work with adaptive just-in-time work
+
+
+
+
+Validated learning
+Validate important assumptions first
+Leverage multiple concurrent learning loops
+Organize workflow for fast feedback
+
+
+
+
+Work in process
+Use economically sensible batch sizes
+Recognize inventory and manage it for good flow
+Focus on idle work, not idle workers
+Consider cost of delay
+
+
+
+
+Progress
+Adapt to real-time information and re-plan
+Measure progress by validating working assets
+Focus on value centric delivery
+
+
+
+
+Performance.
+Go fast but never hurry
+Build in quality
+Employ minimal sufficient ceremony
+
+
+
+
+Good requirements should follow the three C’s — Card, Conversation, and Confirmation
+Stories should follow the INVEST criteria — Independent, Negotiable, Valuable, Estimatable, Small (aka. Sized appropriately), and Testable
+“Good product backlogs (are DEEP): Detailed appropriately, Emergent, Estimated, and Prioritised.”
+“As a general rule, the development team should allocate up to 10% of its time each sprint to assisting the product owner with grooming activities”
+“The ideal situation is to have just enough product backlog items in inventory to create an even flow, but not so many as to create waste”
+Estimate as a team, estimates are not commitments, focus on accuracy over precision, use relative sizes
+“Shipping first time code is like going into debt. A little debt speed development so long as it is paid back promptly with a rewrite”
+There are three types of technical debt:
+
+
+
+
+
+Naive Technical Debt (aka. Reckless Debt) — Irresponsible and avoidable debt incurred through immaturity and deficiencies that lead to sloppy design. Can be avoided through training, understanding, and sound business decisions.
+Unavoidable Technical Debt — Unpredictable and unpreventable debt, often a result of early implementation decisions that need to change as validated learning occurs, and changes are identified as needed.
+Strategic Technical Debt — Deliberate debt incurred in a strategic manner, trading off debt for leverage against some important or time-sensitive need.
+
+
+
+
+
+
+
+
+Nine key consequences of technical debt: Unpredictable tipping point, increased time to delivery, significant number of defects, rising development and support costs, product atrophy, decreased predictability, under performance, universal frustration, decreased customer satisfaction.
+Manage technical debt by: Managing the accrual, making tech debt visible, and repaying the debt.
+“The more technically encompassing we make our definition-of-done checklist, the less likely we are to accrue technical debt”
+“Each organization needs to find a way to communicate the magnitude of a product’s technical debt in a way that the business people can understand.”
+Servicing technical debt: Not all debt should be repaid, apply the Boy Scout rule, Repay the high-interest debt first, repay it incrementally, repay debt while performing customer valuable work.
+The product owner needs to look in two directions simultaneously — as the product manager, ensuring the needs and priorities of stakeholders are met — and also communicate with the dev team on what to build.
+Product Owners: Manage economics, Participate in planning, Groom the product backlog, Define AC and verify they are met, Collaborate with the dev team, Collaborate with the stakeholders
+Product Owners have domain skills, people skills, decision making, and accountability
+There must always be a single individual who acts as the product owner. They can be part of the dev team, but they should not be the Scrum Master.
+“The Scrum Master is the agile coach for the Scrum team — both the development team and the product owner.”
+Scrum Masters are a Coach, Servant Lead, Authority on Process, Interference Shield, Impediment Remover, and Change Agent
+The development team have the skills required to deliver business value requested by the product owner
+Role specific teams (eg. QA) might be necessary in some rare occasions, however — most of the time there is no need.
+Development teams execute the sprint, inspect and adapt, groom the backlog, plan the sprint, and regularly inspect and adapt.
+Development teams need to be self organising, cross-functionally diverse and sufficient, have T-shaped skills, show a musketeer attitude, high bandwidth and transparent communicators, be right sized, are focused and committed, work at a sustainable pace, and be long-lived.
+T shaped skills should be both broad (ability to work outside of core area), and deep (functional area discipline or speciality)
+Principle of least astonishment: People should communicate in a way that is least likely to surprise one another.
+Development teams between 5–9 people are ideal, with 5–7 the sweet spot.
+Scrum scales by having multiple dev teams, not more people in teams. Coordination can be done via a consolidated Scrum-of-Scrums (SoS)
+Teams should be kept together as long as it is economically sensible to do so
+Feature teams are cross functional, cross component teams — as opposed to component teams who focus on one component or sub-system. Scrum favours feature teams.
+We prevent chaotic development and technical debt across feature teams by having well formed teams, who have collective code ownership.
+A blend of feature and component teams can work with members of component teams be assigned to a feature team — giving them a dual responsibility of being a pollinator (knowledge of components into the feature team) and a harvester (collect changes and discuss with component colleagues)
+No one-size-fits-all solution exists in scrums for feature versus component teams.
+A person representing a team at SoS can changed over time, based on who is best able to represent the team at the time.
+SoS should answer the normal daily scrum questions, and not be held every day.
+Release trains allow cross-team coordination and synchronisation based on a common cadence around a single larger product.
+Release trains have fixed dates, but scope is variable. Teams apply common iteration lengths, align on common goals, and use tools like continuous integration to keep synchronisation across teams.
+The number one impediment to adopting Scrum is the feeling of a loss of management control.
+Functional managers need to shift to focus on their responsibilities — fashioning teams, nurturing teams, aligning and adapting the environment, and managing the value-creation flow.
+Agile managers should focus on idle work, not idle works — measuring progress by working validated assets — and organise flow for fast feedback.
+Innovation accounting is based on three steps: (1) Create a minimal viable product (MVP) to establish a baseline, (2) Improve the product incrementally toward using measures towards an ideal value, and (3) inspect and adapt based on your measure — pivoting if necessary.
+While Project Managers aren’t a defined role in scrum, they can be retained for coordination tasks so overwhelming that teams cannot be expected to keep it. It is important, that this role doesn’t take away team self-organisation, nor band-aid what should be fixed by communication improvements. In this role, they should be seem more as an assistant to the Scrum teams.
+
+
+
+
+
+
+Scrum planning principles:
+You can't get the plans right up front
+Up-front planning should be helpful without being excessive
+Keep planning options open until the last responsible moment
+Focus more on adapting and replanning than conforming to the plan
+Correctly manage the planning inventory
+Favor smaller and more frequent releases
+Plan to learn fast and pivot when necessary
+
+
+
+
+
+“When lost in the woods, if the map doesn’t agree with the terrain, in all cases believe the terrain” (Wiseman 2010)
+The faster you release, the quicker you receive an ROI on the product — either through sales acquisition, or feedback to incorporate and improve your product further.
+
+
+
+
+
+Planning has multiple levels in Scrum
+Portfolio - Year or more - identifying what products to work on
+Product - Many months, or longer - establishing a product vision and plan
+Release - Three or fewer months - making scope, date, and budget trade-offs for incremental deliveries
+Sprint - Every iteration - specific PBI's the team will work on
+Daily Scrum - Every day - immediate focus of the day
+
+
+
+
+
+
+
+
+“Portfolio planning is an activity for determining which portfolio backlog items to work on, in which order, and for how long. A portfolio backlog item can be a product, a product increment, or a project.”
+“Using data from envisioning, portfolio planning determines whether to fund the product and how to sequence it in the portfolio backlog”
+Portfolio planning inputs are newly envisioned products, and in-process products — outputs are the prioritised portfolio backlog (prioritised list of future products ready for development), and active products — new or existing products that are slated for immediate development.
+Scheduling strategies include: Optimise for life cycle profits, calculate the cost of delay, and estimate for accuracy (not precision)
+Cost of delay is the aggregation of: User value, time value (how user value decays over time), and risk reduction/opportunity enablement — the value of mitigation a risk or exploiting an opportunity (Leffingwell 2011)
+When estimating the size of portfolio backlog items, we are looking for accuracy and not precision
+We need to balance the arrival and departure rate of portfolio backlog items, to avoid overwhelming the system — reviewing it regularly in economically sensible batches, reducing the effort and cost to review and prioritise. This also supports fast movement on emerging opportunities.
+Only work on a new product when we have a good flow of work for it, and it doesn’t disrupt the flow of other in-process products
+Use marginal economics — ignoring the sunk costs, asking ourselves if further investment is justified by the return on investment that it would create.
+“The goal of envisioning (product planning) is to expound upon that idea, describing the essence of the potential product and creating a rough plan for how to approach its creation.”
+Envisioning is an ongoing process, where ideas are passed through a strategic filter, planned to a suitable horizon, and validated and assessed against a confidence threshold — before the outputs of a compelling product vision, road-map (minimum viable product for as long as you asking people to fund), and high level backlog (Epics) are produced as outputs.
+Potential areas of stakeholder value to assess against: Entry conditions, enablement, differentiation, spoiler, or cost reducer.
+“Each release on the road-map should have a clearly defined release goal that communicates the purpose and desired outcome of the release.”
+Guidelines for economically sensible envisioning: Target a realistic confidence threshold, Focus on a short horizon, Act quickly, Pay for validated learning, Use incremental/provisional funding, Learn fast and pivot.
+The aim of release planning is to determine the next logical step toward achieving the product goal — and involves stakeholders and the scrum team(s)
+Inputs to release planning are a product vision, backlog, and roadmap, and team velocity — and through reviewing, grooming, and mapping — scrum teams and stakeholders will come together to determine what constitutes the most valuable next release, and what the desired level of quality is within the agreed constraints.
+When developing with multiple teams, we may want to do some forward looking mapping of items to sprints to help manage inter-team dependencies.
+For fixed date release planning: Determine how many sprints are in the release, groom the backlog to a sufficient depth, measure the teams velocity as a range, multiple the slower velocity by the number of sprints (will have line), and multiple the faster velocity by the number of sprints (might have line).
+Fixed date releases should require less than 100% of the time allocated — 60/70% as a rule of thumb to compensate for unknowns.
+Burndown/up charts are suitable for fixed scope releases (ie. why they’re used in sprints), but fixed date release should be shown as a specialised burn-up chart beside the inverted backlog — showing how we progress against the features each sprint in a stepped fashion.
+As a general rule — for a two week sprint, sprint planning should take no longer than 4–8 hours.
+Before sprint planning, the product backlog should be groomed and meet the definition of ready — ready for the team to collaborate on planning.
+Teams can break stories down into estimated tasks, which should typically be no more than eight hours of effort. However, tasks are optional.
+Capacity should include 10% of time to assist the PO with grooming, compensate for time off and work outside the sprint, and provide a buffer against the unplanned.
+The sprint goal summarises the business purpose and value of the sprint — and an initial goal should be brought into sprint planning by the PO to refine to a realistic goal.
+The product owner must be available during the sprint execution to clarify, review, provide feedback, discuss adjustments, and verify acceptance criteria.
+The team is responsible for managing the flow of work — how much should be done in parallel, when, by who, and how it should be organised and executed.
+Swarming is preferred — where teams work on fewer items concurrently, rallying around moving in-flight work forward before starting new work — where skills and conditions permit.
+Hand-offs should be avoided within the sprint — look to leverage techniques like TDD to execute in rapid short cycles of test creation, code creation, test execution, and test and code refinement.
+“The daily scrum is a daily planning activity aimed at sharing the big picture of what is happening… and how best to organise the work among the team members.”
+Scrum should not need complex charts or reports — relying instead on a story/task board, and a burndown/burn-up as the information radiator.
+Sprint review participants include the full scrum team, and optionally other relevant stakeholders or internal teams.
+To prepare for sprint review, determine attendees, schedule it, confirm the work is done, prepare for the demonstration, and determine who does what.
+If the product owner sees the work for the first time at sprint review, he’s seen it too late to provide meaningful input, clarify, and and feedback.
+The preference should be that every member of the development team have an opportunity to go hands-on and demonstrate their work.
+The purpose of sprint review is to describe what was accomplished, and use that information to determine the best course of action for moving forward through inspection, discussion, and adaption of the product backlog.
+At a minimum, the team should demo tests of work that cannot be easily demonstrated — but this should be avoided if at all possible.
+Sprint review focuses on the product (ends), where the sprint retrospective focuses on the process (means)
+In sprint retrospective, anything that affects how the team creates the product is open to scrutiny and discussion, including processes, practices, communication, environment artefacts, tools, and so on.
+Sprint retrospective gives the scrum team (external team members are by invite only) a chance to customise Scrum to their unique circumstances.
+To prepare for retrospective, define a focus, select exercises, gather objective data, and structure the respective to support the action of meaningful outcomes.
+A sprint retrospective should set the atmosphere, share content, identify insights, determine actions, and close with actions assigned ownership. This can take the form of dedicating capacity to address insights into the next sprint.
+Many teams create an insight backlog (or improvement backlog) to hold any issues that are identified during a retrospective but cannot be worked on immediately.
+Common retro issues: Low attendance, no actions, ignoring the big issues, poor facilitation, depressing and draining, blame, complaint focused, too ambitious, no follow-through.
+“Agile is not a thing you become, it’s something you become more of” (Cohn, 2010)
+There is no one path to scrum — and your implementation will never end. Therefore, don’t look for a predefined path to success. Instead, take the scrum practices and collaboratively and intelligently inspect and adapt on how you turn those into practical approaches that make sense for your organisation to maximise value delivery to your customer.
+
+
+
+
